@@ -9,8 +9,10 @@ The data is cleaned using Tableau Prep and visualized using Tableau Desktop. The
 
 You *do not* need to run the Tableau Prep flow to in order to visualize the data: To visualize the data you *only need* `corona_all.csv` and `corona_analysis.twb`.
 
+To clean the data, you need to first pull the most updated raw data files using `update_data.sh`. Then, in the Tableau Prep flow, move the newest dates to the pivoted columns in the "pivot" step.
+
 Both Tableau Prep and Tableau Desktop are free for academics with an .edu email [here](https://www.tableau.com/academic/students).
 
-Maintainer:
+Contact:
 X.Y. Han
 Cornell University, ORIE
