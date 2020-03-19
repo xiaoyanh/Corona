@@ -5,7 +5,7 @@ Data is downloaded from [JHU CSSE](https://github.com/CSSEGISandData/COVID-19) a
 
 You can update the data using the included bash script i.e. running `bash update_data.sh`. The first time doing this, you also need to give permission to run the script by running the following first `chmod +x update_data.sh`.
 
-The data is cleaned using Tableau Prep and visualized using Tableau Desktop. The files are included with `clean_corona.tfl` and `corona_analysis.twb`, respectively. When you open the Tableau Prep flow and the Tableau Desktop notebook for the first time, it will say they can not find the relevant datafiles: you need to reset the location of the `corona_all.csv` file on *your* computer in `corona_analysis.twb`. You need to do the analogous thing for the four raw datafiles in `clean_corona.tfl`. 
+The data is cleaned using [Tableau Prep](https://www.tableau.com/products/prep) and visualized using [Tableau Desktop](https://www.tableau.com/products/desktop). The files are included with `clean_corona.tfl` and `corona_analysis.twb`, respectively. When you open the Tableau Prep flow and the Tableau Desktop notebook for the first time, it will say they can not find the relevant datafiles: you need to reset the location of the `corona_all.csv` file on *your* computer in `corona_analysis.twb`. You need to do the analogous thing for the four raw datafiles in `clean_corona.tfl`. 
 
 You *do not* need to run the Tableau Prep flow to in order to visualize the data: To visualize the data you *only need* `corona_all.csv` and `corona_analysis.twb`.
 
