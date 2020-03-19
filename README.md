@@ -13,6 +13,6 @@ To clean the data, you need to first pull the most updated raw data files using 
 
 Both Tableau Prep and Tableau Desktop are free for academics with an .edu email [here](https://www.tableau.com/academic/students).
 
-Contact:
-X.Y. Han
+Contact:\\
+X.Y. Han\\
 Cornell University, ORIE
