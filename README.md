@@ -1,7 +1,7 @@
 # Corona Visualizations
 Tableau Analysis of JHU and Italian PCM data
 
-Data is downloaded from [JHU CSSE!](https://github.com/CSSEGISandData/COVID-19) and the [Italian PCM!](https://github.com/pcm-dpc/COVID-19?fbclid=IwAR3ZdlaE7ro2Jj712CpHeEdyYyQutUtAtzPNWH2PnALM-q0LDLtpLYzJcQk).
+Data is downloaded from [JHU CSSE](https://github.com/CSSEGISandData/COVID-19) and the [Italian PCM](https://github.com/pcm-dpc/COVID-19?fbclid=IwAR3ZdlaE7ro2Jj712CpHeEdyYyQutUtAtzPNWH2PnALM-q0LDLtpLYzJcQk).
 
 You can update the data using the included bash script i.e. running `bash update_data.sh`. The first time doing this, you also need to give permission to run the script by running the following first `chmod +x update_data.sh`.
 
@@ -9,7 +9,7 @@ The data is cleaned using Tableau Prep and visualized using Tableau Desktop. The
 
 You *do not* need to run the Tableau Prep flow to in order to visualize the data: To visualize the data you *only need* `corona_all.csv` and `corona_analysis.twb`.
 
-Both Tableau Prep and Tableau Desktop are free for academics with an .edu email [here!](https://www.tableau.com/academic/students).
+Both Tableau Prep and Tableau Desktop are free for academics with an .edu email [here](https://www.tableau.com/academic/students).
 
 Maintainer:
 X.Y. Han
