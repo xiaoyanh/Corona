@@ -1,4 +1,4 @@
-# Corona Visualizations
+# COVID-19 Visualizations with Tableau
 Tableau Analysis of JHU and Italian PCM data
 
 Data is downloaded from [JHU CSSE](https://github.com/CSSEGISandData/COVID-19) and the [Italian PCM](https://github.com/pcm-dpc/COVID-19?fbclid=IwAR3ZdlaE7ro2Jj712CpHeEdyYyQutUtAtzPNWH2PnALM-q0LDLtpLYzJcQk).
