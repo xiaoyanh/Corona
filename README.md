@@ -13,8 +13,10 @@ To clean the data, you need to first pull the most updated raw data files using 
 
 Both Tableau Prep and Tableau Desktop are free for academics with an .edu email [here](https://www.tableau.com/academic/students).
 
-Contact:
+**Maintainer:** X.Y. Han, Cornell University ORIE
 
-X.Y. Han
-
-Cornell University, ORIE
+## Examples
+Below are a few examples of visualizations in the Tableau Notebook. 
+![](./pics/1.png)
+![](./pics/2.png)
+![](./pics/3.png)
