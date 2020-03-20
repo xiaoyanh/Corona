@@ -16,7 +16,8 @@ Both Tableau Prep and Tableau Desktop are free for academics with an .edu email 
 **Maintainer:** X.Y. Han, Cornell University ORIE
 
 ## Examples
-Below are a few examples of visualizations in the Tableau Notebook. 
+Below are a few screenshots of visualizations in the Tableau Notebook.
+***Movies:*** There are also two movies (`.mov files`) created with the notebook in the `movies\` folder of this repository.
 ![](./pics/1.png)
 ![](./pics/2.png)
 ![](./pics/3.png)
